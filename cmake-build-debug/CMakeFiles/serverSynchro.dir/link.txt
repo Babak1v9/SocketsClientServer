@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -g   CMakeFiles/serverSynchro.dir/serverSynchro.cpp.o  -o serverSynchro 

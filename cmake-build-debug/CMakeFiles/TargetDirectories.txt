@@ -1,0 +1,6 @@
+/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-debug/CMakeFiles/serverSynchro.dir
+/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-debug/CMakeFiles/server.dir
+/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-debug/CMakeFiles/client.dir
+/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-debug/CMakeFiles/serverSynchroEncrypt.dir
