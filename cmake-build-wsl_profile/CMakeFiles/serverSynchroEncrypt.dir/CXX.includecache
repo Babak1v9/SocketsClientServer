@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Lukas/CLionProjects/vs/serverSynchroEncrypt.cpp
+sys/stat.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+cstdlib
+-
+cstdio
+-
+cstring
+-
+iostream
+-
+fstream
+-
+dirent.h
+-
+filesystem
+-
+vector
+-
+boost/uuid/uuid.hpp
+-
+boost/uuid/uuid_generators.hpp
+-
+boost/uuid/uuid_io.hpp
+-
+thread
+-
+

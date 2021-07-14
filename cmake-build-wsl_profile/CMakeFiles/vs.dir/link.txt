@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/vs.dir/server.cpp.o CMakeFiles/vs.dir/client.cpp.o  -o vs 

@@ -1,0 +1,110 @@
+The system is: Linux - 4.19.128-microsoft-standard - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/3.19.1/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/3.19.1/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2ec4a/fast && /usr/bin/make  -f CMakeFiles/cmTC_2ec4a.dir/build.make CMakeFiles/cmTC_2ec4a.dir/build
+make[1]: Entering directory '/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2ec4a.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_2ec4a.dir/testCCompiler.c.o -c /mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_2ec4a
+/opt/cmake-3.19.1-Linux-x86_64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2ec4a.dir/link.txt --verbose=1
+/usr/bin/cc CMakeFiles/cmTC_2ec4a.dir/testCCompiler.c.o -o cmTC_2ec4a 
+make[1]: Leaving directory '/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_dd5d4/fast && /usr/bin/make  -f CMakeFiles/cmTC_dd5d4.dir/build.make CMakeFiles/cmTC_dd5d4.dir/build
+make[1]: Entering directory '/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_dd5d4.dir/testCXXCompiler.cxx.o
+/usr/bin/c++    -o CMakeFiles/cmTC_dd5d4.dir/testCXXCompiler.cxx.o -c /mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_dd5d4
+/opt/cmake-3.19.1-Linux-x86_64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dd5d4.dir/link.txt --verbose=1
+/usr/bin/c++ CMakeFiles/cmTC_dd5d4.dir/testCXXCompiler.cxx.o -o cmTC_dd5d4 
+make[1]: Leaving directory '/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/CMakeTmp'
+
+
+
+The system is: Linux - 4.19.128-microsoft-standard - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/3.17.5/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/3.17.5/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9adf8/fast && /usr/bin/make  -f CMakeFiles/cmTC_9adf8.dir/build.make CMakeFiles/cmTC_9adf8.dir/build
+make[1]: Entering directory '/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9adf8.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_9adf8.dir/testCCompiler.c.o   -c /mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_9adf8
+/opt/cmake-3.17.5-Linux-x86_64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9adf8.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_9adf8.dir/testCCompiler.c.o  -o cmTC_9adf8 
+make[1]: Leaving directory '/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_693e2/fast && /usr/bin/make  -f CMakeFiles/cmTC_693e2.dir/build.make CMakeFiles/cmTC_693e2.dir/build
+make[1]: Entering directory '/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_693e2.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_693e2.dir/testCXXCompiler.cxx.o -c /mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_693e2
+/opt/cmake-3.17.5-Linux-x86_64/bin/cmake -E cmake_link_script CMakeFiles/cmTC_693e2.dir/link.txt --verbose=1
+/usr/bin/c++       CMakeFiles/cmTC_693e2.dir/testCXXCompiler.cxx.o  -o cmTC_693e2 
+make[1]: Leaving directory '/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/CMakeTmp'
+
+
+

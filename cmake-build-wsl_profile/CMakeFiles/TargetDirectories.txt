@@ -1,0 +1,6 @@
+/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/serverSynchro.dir
+/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/server.dir
+/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/client.dir
+/mnt/c/Users/Lukas/CLionProjects/vs/cmake-build-wsl_profile/CMakeFiles/serverSynchroEncrypt.dir
