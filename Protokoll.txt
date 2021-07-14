@@ -1,0 +1,62 @@
+Beschreibung des verwendeten Kommunikationsprotokolls zwischen Client und Server
+
+
+Client response wird bis zu \n gelesen und anschließen zu strings konvertiert für die weiter verarbeitung
+while (buffer[i] != '\n') 
+{
+  recipient[i] = buffer[i];
+  i++;
+}
+
+##Protokoll SEND Befehls##
+Cient side:
+send
+User eingabe mittels fgets
+recv() send() for loop 4x 
+- sender max 8 symbols
+- recipient max 8 symbols
+- subject max 80 symbols
+- message 
+
+Server side:
+OK oder ERR\n 
+
+
+##Protokoll LIST Befehl##
+Client side:
+list
+User eingabe mittels fgets
+Username max 8 symbols
+
+Server side:
+Message count: 
+Subject 1
+Subject n
+
+
+##Protokoll READ Befehl##
+Client side:
+read
+User eingabe mittels fgets
+recv() send() for loop 2x
+- Username max. 8 symbols
+- Message id
+
+Server Side:
+OK + Message
+or ERR
+
+##Protokoll DEL Befehl##
+Client side:
+del
+User eingabe mittels fgets
+recv() send() for loop 2x
+- Username max. 8 symbols
+- Message id
+
+Server side:
+OK or ERR
+
+
+
+
